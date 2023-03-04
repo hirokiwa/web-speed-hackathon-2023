@@ -1,3 +1,6 @@
+# fly.toml file generated for speed-hiroki on 2023-03-04T11:50:33+09:00
+
+app = "speed-hiroki"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
